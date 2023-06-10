@@ -35,36 +35,7 @@ section{
     padding: 0 80px;
     margin: auto;
 }
-.social-icons a {
-    font-size: 2rem;
-    display: inline-block;
-    line-height: 44px;
-    color: #00d9ff;
-    background-color: #09011b;
-    width: 44px;
-    height: 44px;
-    text-align: center;
-    margin-right: 8px;
-    border-radius: 100%;
-    -webkit-transition: all 0.2s linear;
-    -o-transition: all 0.2s linear;
-    transition: all 0.2s linear;
-}
-.fab, .far {
-    font-weight: 400;
-}
-.fab {
-    font-family: "Font Awesome 5 Brands";
-}
-.fa, .fab, .fad, .fal, .far, .fas {
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
-    display: inline-block;
-    font-style: normal;
-    font-variant: normal;
-    text-rendering: auto;
-    line-height: 1;
-}
+
 .about, .services, .skills, .teams, .contact, footer{
     font-family: 'Poppins', sans-serif;
 }
